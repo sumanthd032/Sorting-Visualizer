@@ -163,7 +163,3 @@ g++ sorting_visualizer.cpp -o visualizer -I"C:\SFML\include" -L"C:\SFML\lib" -ls
 Contributions are welcome! Fork the repository, make changes, and submit a pull request with a clear description of your updates.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
